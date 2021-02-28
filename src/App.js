@@ -5,9 +5,11 @@ import Projects from "./components/Projects.js";
 
 function App() {
   return (
-    <div className="App text-center">
-      <About />
-      <Links />
+    <div className="App text-center mb-8">
+      <div className="bg-gradient-to-r from-bluegray-900 to-bluegray-600 pt-12">
+        <About />
+        <Links />
+      </div>
       <Projects />
     </div>
   );
