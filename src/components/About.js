@@ -5,7 +5,7 @@ export default function About() {
       <h1 className="text-7xl font-heading text-gray-100">Isak Koski</h1>
       <p className="mt-10 mb-1 text-xl text-gray-200">
         Hello there!<br/>
-        I am an experienced full stack web developer from Sweden.
+        I am a full stack web developer from Sweden.
       </p>
     </div>
   )
