@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.68aaa65f.chunk.css",
-    "main.js": "/portfolio/static/js/main.db189366.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.db189366.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.602bac48.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.602bac48.js.map",
-    "static/js/2.ee3f658e.chunk.js": "/portfolio/static/js/2.ee3f658e.chunk.js",
-    "static/js/2.ee3f658e.chunk.js.map": "/portfolio/static/js/2.ee3f658e.chunk.js.map",
-    "static/js/3.83f0bec5.chunk.js": "/portfolio/static/js/3.83f0bec5.chunk.js",
-    "static/js/3.83f0bec5.chunk.js.map": "/portfolio/static/js/3.83f0bec5.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.68aaa65f.chunk.css.map": "/portfolio/static/css/main.68aaa65f.chunk.css.map",
-    "static/js/2.ee3f658e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ee3f658e.chunk.js.LICENSE.txt",
-    "static/media/burenta-preview.c049ac7c.png": "/portfolio/static/media/burenta-preview.c049ac7c.png",
-    "static/media/fakebook-preview.23348a23.png": "/portfolio/static/media/fakebook-preview.23348a23.png",
-    "static/media/taskie-preview.b99d1bf0.png": "/portfolio/static/media/taskie-preview.b99d1bf0.png"
+    "main.css": "/static/css/main.aad95e55.chunk.css",
+    "main.js": "/static/js/main.72d09531.chunk.js",
+    "main.js.map": "/static/js/main.72d09531.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.524238d0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.524238d0.js.map",
+    "static/js/2.ee3f658e.chunk.js": "/static/js/2.ee3f658e.chunk.js",
+    "static/js/2.ee3f658e.chunk.js.map": "/static/js/2.ee3f658e.chunk.js.map",
+    "static/js/3.83f0bec5.chunk.js": "/static/js/3.83f0bec5.chunk.js",
+    "static/js/3.83f0bec5.chunk.js.map": "/static/js/3.83f0bec5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.aad95e55.chunk.css.map": "/static/css/main.aad95e55.chunk.css.map",
+    "static/js/2.ee3f658e.chunk.js.LICENSE.txt": "/static/js/2.ee3f658e.chunk.js.LICENSE.txt",
+    "static/media/burenta-preview.c049ac7c.png": "/static/media/burenta-preview.c049ac7c.png",
+    "static/media/fakebook-preview.23348a23.png": "/static/media/fakebook-preview.23348a23.png",
+    "static/media/react.f268964f.png": "/static/media/react.f268964f.png",
+    "static/media/taskie-preview.b99d1bf0.png": "/static/media/taskie-preview.b99d1bf0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.602bac48.js",
+    "static/js/runtime-main.524238d0.js",
     "static/js/2.ee3f658e.chunk.js",
-    "static/css/main.68aaa65f.chunk.css",
-    "static/js/main.db189366.chunk.js"
+    "static/css/main.aad95e55.chunk.css",
+    "static/js/main.72d09531.chunk.js"
   ]
 }
